@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "B3TempoVannson"
+rootProject.name = "B3TempoApp2425"
 include ':app'
